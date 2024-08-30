@@ -21,5 +21,6 @@ echo $valor;
 ?>
 <hr>
 <a href="exercicio_35.php">Ir para exercício</a>
+<a href="exercicio_36.php">Ir para exercício</a>
 
 
